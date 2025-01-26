@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    gap: 80px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.Logo {
+    font-size: 19px;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+.mety {
+    display: flex;
+}

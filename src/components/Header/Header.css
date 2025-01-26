@@ -1,0 +1,11 @@
+.Header-Content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.logo {
+    width: 110px;
+    height: 110px;
+}

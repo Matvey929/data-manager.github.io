@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 4px;
+}
+
+.unput {
+    display: block;
+    width: 500px;
+    font-size: 20px;
+    margin-top: 90px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+body {
+}
+
+.logo_profile {
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+    color: rgb(37, 32, 25);
+}
