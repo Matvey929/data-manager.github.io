@@ -3,6 +3,7 @@ import './profile.css'
 import { Header } from "../components/Header/Header";
 
 export const PageProfile:FC = ()=>{
+  alert('Зарестрируйтесь')
     return (
         <div className="PageProfile">
           <Header/>
