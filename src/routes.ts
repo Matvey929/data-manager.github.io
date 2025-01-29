@@ -33,6 +33,7 @@ const router = createBrowserRouter([
     path: '/content',
     Component: PageContent
   }
+  
 ]);
 
 export default router;
